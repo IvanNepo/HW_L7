@@ -2,8 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args);
-           class Product
+        class Product
         {
             public int Id { get; }
             public string Name { get; }
